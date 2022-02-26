@@ -11,7 +11,7 @@ ANDROID DEVELOPMENT <br>
 ## OTHER 
 #### NEC AND MITSUBISHI CORPORATION HACKATHON
 Provides details about nearest 5 hospitals based on your current location <br>
-Made use of here map api <br>
+Made use of HERE map api <br>
 Tools used: html, css, javascript, flask <br>
 #### WEB PENETRATION INTERN 
 Build secure websites by finding vulnerabilities <br>
